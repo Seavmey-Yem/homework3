@@ -1,0 +1,62 @@
+header{
+    background: rgb(100, 174, 239);
+    padding: 10px;
+}
+.top{
+    display: flex;
+}
+.hero{
+    width: 700px;
+    height: 180px;
+    background: #ebc8f4;
+    padding: 10px;
+    margin: 10px;
+}
+.sidebar{
+    background: #7fd78e;
+    height: 270px;
+    padding: 10px;
+    margin: 10px;
+}
+.main{
+    text-align: center;
+    flex: 1;
+    background: #e5cf54;
+    margin: 10px;
+    height: 280px;
+    width: 980px;
+    padding: 10px;
+    
+}
+.extra{
+    background: #837f7f;
+    margin: 10px;
+    height: 170px;
+    padding: 10px;
+
+}
+.bottom{
+    display: flex;
+}
+.images{
+    background: #3b9e17;
+    height: 150px;
+    width: 1200px;
+}
+.posts{
+    background: #e3b5d9;
+    width: 500px;
+    margin-left: 10px;
+}
+footer{
+    background: #e3ac4c;
+    padding: 10px;
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
